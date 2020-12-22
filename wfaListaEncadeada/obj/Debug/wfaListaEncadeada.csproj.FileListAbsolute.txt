@@ -1,0 +1,10 @@
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\bin\Debug\wfaListaEncadeada.exe.config
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\bin\Debug\wfaListaEncadeada.exe
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\bin\Debug\wfaListaEncadeada.pdb
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\obj\Debug\wfaListaEncadeada.csprojAssemblyReference.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\obj\Debug\wfaListaEncadeada.Form1.resources
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\obj\Debug\wfaListaEncadeada.Properties.Resources.resources
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\obj\Debug\wfaListaEncadeada.csproj.GenerateResource.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\obj\Debug\wfaListaEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\obj\Debug\wfaListaEncadeada.exe
+C:\Users\willy\OneDrive\Área de Trabalho\POO\Seminario\wfaListaEncadeada\wfaListaEncadeada\obj\Debug\wfaListaEncadeada.pdb
