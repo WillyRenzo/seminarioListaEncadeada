@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace wfaListaEncadeada
 {
@@ -53,7 +54,7 @@ namespace wfaListaEncadeada
 
             if (cabeca.getNext() == null)
             {
-                Console.WriteLine("Elemento retirado: " + cabeca.getData());
+                MessageBox.Show("Elemento retirado: " + cabeca.getData());
                 cabeca = null;
             }
             else
@@ -67,7 +68,7 @@ namespace wfaListaEncadeada
                     ultimo = ultimo.getNext();
                 }
                 penultimo.setNext(null);
-                Console.WriteLine("Elemento retirado: " + ultimo.getData());
+                MessageBox.Show("Elemento retirado: " + ultimo.getData());
             }
             this.exibir();
         }
@@ -77,7 +78,7 @@ namespace wfaListaEncadeada
         {
             if (cabeca != null)
             {
-                Console.WriteLine("Elemento retirado: " + cabeca.getData());
+                MessageBox.Show("Elemento retirado: " + cabeca.getData());
                 cabeca = cabeca.getNext();
             }
             exibir();
